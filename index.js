@@ -6,7 +6,7 @@ var checkWord = chosenWord.split("")
 var playerLife = 4
 var wordLife = checkWord.length
 var winMessage = "What? You think you're better than me? You solved the word, so what?  You think that makes you better than me? Think again, pal."
-var loseMessage = 'This was actually an aptitude test and our software shows you best fit for employment is in an entry level fast food position.'
+var loseMessage = 'This was actually an aptitude test and our software shows your best fit for employment is in an entry level fast food position.'
 var myBool = false
 var lettersInPuzzle;
 
