@@ -12,6 +12,7 @@ body{
 	background-color: red;
 	color: white;
 	margin-top: 0px;
+	font-size: 25px;
 }
 
 #pic1{
@@ -19,7 +20,7 @@ body{
 	width: 300px;
 	margin-left: 1075px;
 	background: url(Noose.jpg) no-repeat 50% 50%;
-	margin-top: -67px;
+	margin-top: -103px;
 }
 
 #pic2{
